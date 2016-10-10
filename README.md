@@ -2,7 +2,8 @@ Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
 | ------------- |:--------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| col 3 is      | Reference-style: 
+![alt text][logo]| $1600 |
 |       |       |    |
 
 There must be at least 3 dashes separating each header cell.
@@ -13,3 +14,5 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
